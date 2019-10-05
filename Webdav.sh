@@ -9,6 +9,14 @@ Y='\033[33;1m'
 P='\033[35;1m'
 w='\033[1;34m'
 
+#install
+apt update && apt upgrade
+pkg install bash
+pkg install sh
+pkg install curl
+pkg install figlet
+
+
 
 #webdav
 web1='http://essentialtours.com'
