@@ -1,6 +1,6 @@
 # Tools-Webdav
 
-Penginstalan
+#Penginstalan
 $apt update && apt upgrade
 $pkg install bash
 $pkg install sh
